@@ -8,7 +8,15 @@ First, make sure you are connected to the University VPN service ([more informat
 Then, open `Terminal.app` or your terminal emulator of choice and type the following, replacing `s1234567` with your own UUN:
 
 ```
-ssh -x s1234567@burn.geos.ed.ac.uk
+ssh -x s1234567@adder.geos.ed.ac.uk
 ```
 
 Press "Enter", then follow the instructions. When it asks for your password use the one you use to login to MyEd, don't worry if the password doesn't look like it's being typed, the computer is just trying to keep your details secret!
+
+Then, once you are logged into the ssh gateway environment, you can login to a server with more functionality by entering the following into the command line:
+
+```
+ssh burn
+```
+
+
