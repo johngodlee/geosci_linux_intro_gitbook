@@ -27,5 +27,7 @@
 - [Even more power with `eddie`](eddie/README.md)
   * [Logging onto `eddie`](eddie/eddie_login.md)
   * [Submitting a job to `eddie`](eddie/eddie_job.md)
- 
+- [GeoSciences homepages](geos_homes/README.md)
+  * [Activating your homepage](geos_homes/activate.md)
+  * [Editing your homepage](geos_homes/edit.md)
 * [Quicklook Table](quicklook.md)
